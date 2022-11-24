@@ -12,7 +12,15 @@ set its UCI options<p>
 
 # How it works ?
 - Run CHESS LAN on one of your computers, set your settings, select Server, click on the "LISTEN" button :<br>
-![server_listen](https://github.com/chris13300/CHESS_LAN/blob/main/CHESS LAN/bin/x64/Debug/server_listen.jpg)<p>
+![server_listen](https://github.com/chris13300/CHESS_LAN/blob/main/CHESS%20LAN/bin/x64/Debug/server_listen.jpg)<p>
   
 - Run CHESS LAN on another computer, set your settings, select Client, click on the "CONNECT" button :<br>
-![client_connect](https://github.com/chris13300/CHESS_LAN/blob/main/CHESS LAN/bin/x64/Debug/client_connect.jpg)<p>
+![client_connect](https://github.com/chris13300/CHESS_LAN/blob/main/CHESS%20LAN/bin/x64/Debug/client_connect.jpg)<p>
+
+During the tourney, we get few files :<br>
+- the "computer_name_reception.log" file contains the data received from the other computer<br>
+- the "computer_name_transmission.log" file contains the data sent to the other computer<br>
+- the "stats_computer_name_delay_increment_thread_hash_ponder.ini" file contains the statistics of the current tourney<br>
+- the "check.pgn" file contains the games played during the tourney<p>
+
+# tips
