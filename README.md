@@ -2,7 +2,7 @@
 Tool to play network matches between chess engines
 
 Prerequisites :<br>
-copy [engine.exe.exe](https://github.com/chris13300/CHESS_LAN/blob/main/CHESS%20LAN/bin/x64/Debug/engine.exe) to your CHESS LAN folder<br>
+copy [engine.exe](https://github.com/chris13300/CHESS_LAN/blob/main/CHESS%20LAN/bin/x64/Debug/engine.exe) to your CHESS LAN folder<br>
 
 rename BUREAU.ini to YOUR_COMPUTER_NAME.ini<br>
 set txtEngine to path_to_your_engine<p>
