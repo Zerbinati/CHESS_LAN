@@ -1,0 +1,20 @@
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN (serveur)\CHESS LAN\bin\Debug\CHESS LAN.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN (serveur)\CHESS LAN\obj\Debug\CHESS LAN.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN (serveur)\CHESS LAN\obj\Debug\CHESS LAN.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN (serveur)\CHESS LAN\obj\Debug\CHESS LAN.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN (serveur)\CHESS LAN\bin\Debug\CHESS LAN.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN (serveur)\CHESS LAN\bin\Debug\CHESS LAN.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN (serveur)\CHESS LAN\bin\Debug\CHESS LAN.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN (serveur)\CHESS LAN\obj\Debug\CHESS_LAN.frmPrincipale.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN (serveur)\CHESS LAN\obj\Debug\CHESS_LAN.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN (serveur)\CHESS LAN\obj\Debug\CHESS LAN.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN\CHESS LAN\bin\Debug\CHESS LAN.exe.config
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN\CHESS LAN\bin\Debug\CHESS LAN.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN\CHESS LAN\bin\Debug\CHESS LAN.pdb
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN\CHESS LAN\bin\Debug\CHESS LAN.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN\CHESS LAN\obj\Debug\CHESS_LAN.frmPrincipale.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN\CHESS LAN\obj\Debug\CHESS_LAN.Resources.resources
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN\CHESS LAN\obj\Debug\CHESS LAN.vbproj.GenerateResource.Cache
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN\CHESS LAN\obj\Debug\CHESS LAN.exe
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN\CHESS LAN\obj\Debug\CHESS LAN.xml
+C:\Users\chris\Documents\Visual Studio 2013\Projects\CHESS LAN\CHESS LAN\obj\Debug\CHESS LAN.pdb
