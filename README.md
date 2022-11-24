@@ -11,8 +11,8 @@ rename BrainFish.txt to NAME_OF_YOUR_ENGINE.txt<br>
 set its UCI options<p>
 
 # How it works ?
-- Run CHESS LAN on one of your computers, set your settings, select Server, click on the "LISTEN" button :
+- Run CHESS LAN on one of your computers, set your settings, select Server, click on the "LISTEN" button :<br>
 ![server_listen](https://github.com/chris13300/CHESS_LAN/blob/main/CHESS LAN/bin/x64/Debug/server_listen.jpg)<p>
   
-- Run CHESS LAN on another computer, set your settings, select Client, click on the "CONNECT" button :
+- Run CHESS LAN on another computer, set your settings, select Client, click on the "CONNECT" button :<br>
 ![client_connect](https://github.com/chris13300/CHESS_LAN/blob/main/CHESS LAN/bin/x64/Debug/client_connect.jpg)<p>
